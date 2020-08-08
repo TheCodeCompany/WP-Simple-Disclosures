@@ -16,3 +16,9 @@ No bloat, no crazy admin interfaces.
 ## Extending / Customising
 
 There are a bunch of easy extensions that could be made, including custom post types, custom taxonomies, and custom position of the disclosures. Feel free to submit pull requests. 
+
+## Screenshots 
+
+![Screenshot 1](screenshot-1.jpg)
+
+![Screenshot 2](screenshot-2.jpg)
